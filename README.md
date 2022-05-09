@@ -15,4 +15,4 @@ Teste do serviço:
 
 Note que que neste projeto, criamos a pasta /libs onde colocamos as bibliotecas \*.jar e adicionamos ao BuildPath do projeto...
 
-Note que esta aplicação está empacotada como arquivo JAR e não como WAR, ela não precisa do Apache Tomcat pois tem o Jetty embutido
+Note que esta aplicação está empacotada como arquivo JAR e não como WAR, ela não precisa do Apache Tomcat pois tem o Jetty "embutido"
